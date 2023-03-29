@@ -2,8 +2,8 @@
 
 ## Environment 
 
-- React Version: 16.13.1
-- Node Version: ^12.18.3
+- React Version: 18.2.0
+- Node Version: 18.14.0
 - Default Port: 8000
 
 ## Project Specifications 
